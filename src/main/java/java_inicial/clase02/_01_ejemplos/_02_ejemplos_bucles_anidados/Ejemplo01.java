@@ -1,8 +1,6 @@
-package com.github.sanchezih.java_inicial.clase02._01_ejemplos._02_ejemplos_bucles_anidados;
+package java_inicial.clase02._01_ejemplos._02_ejemplos_bucles_anidados;
 
-import java.util.Scanner;
-
-import ar.edu.ort.p1.util.Consola;
+import com.github.sanchezih.util.io.Consola;
 
 /**
  * Que es un numero perfecto?

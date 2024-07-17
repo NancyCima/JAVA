@@ -1,4 +1,4 @@
-package com.github.sanchezih.java_inicial.clase02._01_ejemplos._02_ejemplos_bucles_anidados;
+package java_inicial.clase02._01_ejemplos._02_ejemplos_bucles_anidados;
 
 /**
  * Programa que muestra todos los valores de un contador de 5 digitos empezando

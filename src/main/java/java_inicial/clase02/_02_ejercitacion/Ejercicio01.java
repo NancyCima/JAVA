@@ -1,6 +1,6 @@
-package com.github.sanchezih.java_inicial.clase02._02_ejercitacion;
+package java_inicial.clase02._02_ejercitacion;
 
-import ar.edu.ort.p1.util.Consola;
+import com.github.sanchezih.util.io.Consola;
 
 /**
  * Ejercicio01

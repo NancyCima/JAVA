@@ -1,8 +1,8 @@
-package com.github.sanchezih.java_inicial.clase01._01_ejemplos._02_ejemplos_estructura_condicional;
+package java_inicial.clase01._01_ejemplos._02_ejemplos_estructura_condicional;
+
+import com.github.sanchezih.util.io.Consola;
 
 import java.io.IOException;
-
-import ar.edu.ort.p1.util.Consola;
 
 /**
  * Programa que lee un caracter por teclado e indica si es una letra mayuscula.

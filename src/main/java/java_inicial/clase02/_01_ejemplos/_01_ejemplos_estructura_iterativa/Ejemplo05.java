@@ -1,4 +1,4 @@
-package com.github.sanchezih.java_inicial.clase02._01_ejemplos._01_ejemplos_estructura_iterativa;
+package java_inicial.clase02._01_ejemplos._01_ejemplos_estructura_iterativa;
 
 /**
  * Programa que muestra los numeros del 10 al 1 utilizando la instruccion

@@ -1,3 +1,6 @@
+package java_inicial.clase01._02_ejercitacion;
+
+import com.github.sanchezih.util.io.Consola;
 /**
  * Programa que comprueba si un año es bisiesto. Un año es bisiesto si es
  * divisible por 4 y no lo es por 100 o si es divisible por 400.
