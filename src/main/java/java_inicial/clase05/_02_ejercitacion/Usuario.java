@@ -39,7 +39,7 @@ public class Usuario {
 		this.mail = mail;
 	}
 
-	public boolean isBecado() {
+	public boolean esBecado() {
 		return becado;
 	}
 

@@ -3,7 +3,7 @@ package java_inicial.clase05._02_ejercitacion;
 public class Leccion {
 	
 	private String nombre;
-	private Integer duracion;
+	private double duracion;
 	private TipoLeccion tipo;
 	
 	// Getters y Setters
@@ -13,7 +13,7 @@ public class Leccion {
 	public void setNombre(String nombre) {
 		this.nombre = nombre;
 	}
-	public Integer getDuracion() {
+	public double getDuracion() {
 		return duracion;
 	}
 	public void setDuracion(Integer duracion) {
